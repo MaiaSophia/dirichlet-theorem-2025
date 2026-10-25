@@ -3,8 +3,9 @@
 📄 [Dirichlet_theorem_2025-04.pdf](Dirichlet_theorem_2025-04.pdf) · 9 pages · written in English
 
 **Date:** April 2025
-**Context:** written as part of my coursework, for Andrea Conti's course
-(Heidelberg University). Each student presented one part of the topic.
+**Context:** written as part of my coursework, third year (L3) of my
+bachelor's degree in mathematics: research seminar paper for Andrea Conti's
+course (Heidelberg University). Each student presented one part of the topic.
 
 ## Contents
 
